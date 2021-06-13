@@ -19,3 +19,8 @@ Graduado em Física pela Universidade Federal de Uberlândia em 2019, atualmente
 ## Projetos:
 Veja os projetos publicados:
 
+**Big Data - ETL'S**
+* Agenda de Contatos - https://bityli.com/NbOvk
+* Copiar e Distribuir - https://bityli.com/0IXrR
+
+
