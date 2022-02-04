@@ -36,10 +36,13 @@ O objetivos deste ETL é captar os dados de uma planilha de Excel, e grava-los e
 
 ## Fluxograma do ETL
 
-![Distribuic%CC%A7a%CC%83o%20Simples%20d2004af5ec61463f9b05952e4bc04fd9/Untitled.png](Distribuic%CC%A7a%CC%83o%20Simples%20d2004af5ec61463f9b05952e4bc04fd9/Untitled.png)
-
+<p align="center">
+  <img src="Fluxograma_ETL.jpeg" >
+</p>
 ---
 
 ## Diagrama do ETL
 
-![Distribuic%CC%A7a%CC%83o%20Simples%20d2004af5ec61463f9b05952e4bc04fd9/Copiar_e_Colar.jpeg](Distribuic%CC%A7a%CC%83o%20Simples%20d2004af5ec61463f9b05952e4bc04fd9/Copiar_e_Colar.jpeg)
+<p align="center">
+  <img src="Diagrama_ETL.png" >
+</p>
